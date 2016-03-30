@@ -9,3 +9,5 @@ int main(){
     nimekiri->eemaldaOpilane(2);
     nimekiri->prindiNimekiri();
 }
+
+//lallalalalaa
